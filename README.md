@@ -1,2 +1,2 @@
 # Golang
-Start up studying Golang this year.  
+Start up Golang.
